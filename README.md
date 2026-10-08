@@ -76,11 +76,10 @@ This project currently demonstrates the offensive (red team) half of the securit
 ## Repository Contents
 
 - `Red_Team_to_Blue_Team.pptx` — Full project write-up and walkthrough (slides).
+- LINK-https://docs.google.com/presentation/d/1KcqxmePPnZUeuedY4EvxTWavi8dkJuZM/edit?pli=1&slide=id.g38bafc61219_0_69#slide=id.g38bafc61219_0_69
 
 ## Disclaimer
 
 This project was conducted entirely in a personal, isolated lab environment against intentionally vulnerable software (DVWA) for educational purposes. It does not target, and was never used against, any real or production system. Always obtain explicit written authorization before testing any system you do not own.
 
-## Author
 
-Shubham K
